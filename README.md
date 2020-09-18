@@ -121,6 +121,16 @@ Hints:
 * Skip to the end for the final answer
 
 
+operator-lifecycle-manager
+--------------------------
+
+The Operator Lifecycle Manager (OLM) helps users install, update, and manage the lifecycle of all Operators and their associated services running across their clusters. It is part of the Operator Framework, an open source toolkit designed to manage Kubernetes native applications (Operators) in an effective, automated, and scalable way.
+
+Links:
+
+* [OLM](https://docs.okd.io/latest/operators/understanding_olm/olm-understanding-olm.html)
+
+
 operator-sdk
 ------------
 
