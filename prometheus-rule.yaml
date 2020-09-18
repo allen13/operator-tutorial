@@ -1,0 +1,15 @@
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: example
+spec:
+  groups:
+  - name: example.rules
+    rules:
+    - alert: Hello{name}
+      annotations:
+        message: Test Alert
+      expr: vector(0)
+      for: 1m
+      labels:
+        severity: warning
