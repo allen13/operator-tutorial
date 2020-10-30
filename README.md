@@ -28,6 +28,8 @@ People who run workloads on Kubernetes often like to use automation to take care
 Links:
 
 * [Overview](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+* [Pros](https://thenewstack.io/why-kubernetes-operators-will-unleash-your-developers-by-reducing-complexity/)
+* [Cons](https://thenewstack.io/kubernetes-when-to-use-and-when-to-avoid-the-operator-pattern/)
 
 crds
 ----
