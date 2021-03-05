@@ -117,7 +117,7 @@ Hints:
 
 * Review the cluster-monitoring-operator for how it generates the namespaces value.
     
-    * [Namespace Selector](https://github.com/openshift/cluster-monitoring-operator/blob/1cdc504549d439ec5111414ffe7acc8a6e8a513a/cmd/operator/main.go#L90)
+    * [Namespace Selector](https://github.com/prometheus-operator/prometheus-operator/blob/master/cmd/operator/main.go#L191)
     * [Implementation](https://github.com/openshift/cluster-monitoring-operator/blob/922578d7d8a33f39b43b577e74c469b4374e90bd/pkg/manifests/manifests.go#L1878)
 
 * Skip to the end for the final answer
